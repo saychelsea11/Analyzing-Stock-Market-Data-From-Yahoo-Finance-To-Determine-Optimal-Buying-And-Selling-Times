@@ -15,7 +15,7 @@ To find the best buying and selling times during a trading day
 # Data
 
 - The data was collected using the *yfinance* library in Python created by Ran Aroussi. 
--- https://aroussi.com/post/python-yahoo-finance
+  - https://aroussi.com/post/python-yahoo-finance
 - Data was extracted with an interval of 1min spanning 30 days for the following tickers
   - MSFT
   - JD
