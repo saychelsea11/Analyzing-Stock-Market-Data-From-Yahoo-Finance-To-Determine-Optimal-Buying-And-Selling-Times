@@ -25,3 +25,6 @@ To find the best buying and selling times during a trading day
   - UBER
   - SNAP
 
+# Initial timeseries analysis for a single day (7/24/20)
+
+![Alternate image text](https://drive.google.com/open?id=1Hh35zOeEHlFePvuh2O49tr5gV-esmOJZ)
