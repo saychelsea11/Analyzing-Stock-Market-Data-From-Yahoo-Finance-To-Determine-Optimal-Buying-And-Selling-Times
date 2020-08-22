@@ -27,4 +27,4 @@ To find the best buying and selling times during a trading day
 
 # Initial timeseries analysis for a single day (7/24/20)
 
-![Alternate image text](https://drive.google.com/open?id=1Hh35zOeEHlFePvuh2O49tr5gV-esmOJZ)
+![timeseries_analysis_7_24_20](https://user-images.githubusercontent.com/31114603/90967528-57ff1a00-e4ae-11ea-85b4-87d8376724f8.png)
