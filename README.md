@@ -1,6 +1,6 @@
 # Title 
 
-Analyzing-Stock-Market-Data-From-Yahoo-Finance-To-Determine-Optimal-Buying-And-Selling-Times
+*Analyzing Stock Market Data From Yahoo Finance To Determine Optimal Buying And Selling Times*
 
 # Goal
 
